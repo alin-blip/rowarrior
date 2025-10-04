@@ -1,4 +1,4 @@
-import { Module } from '../types'
+import type { Module } from '../types'
 
 export const modulesData: Omit<Module, 'id'>[] = [
   // INTRODUCERE (3 module)

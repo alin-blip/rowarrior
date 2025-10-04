@@ -2,7 +2,6 @@ import { useState } from 'react'
 import { Link, useLocation } from 'react-router-dom'
 import { useTranslation } from 'react-i18next'
 import { Button } from '../ui/Button'
-import { Badge } from '../ui/Badge'
 import { 
   Home, 
   BookOpen, 

@@ -4,8 +4,6 @@ import { useTranslation } from 'react-i18next'
 import { Button } from '../components/ui/Button'
 import { Card } from '../components/ui/Card'
 import { Textarea } from '../components/ui/Textarea'
-import { Progress } from '../components/ui/Progress'
-import { Badge } from '../components/ui/Badge'
 import { ChevronLeft, ChevronRight, CheckCircle, Play } from 'lucide-react'
 import { generateAllModules } from '../data/modules'
 
